@@ -11,6 +11,7 @@ Badhan, BUET Zone.
 <hr>
 <a name="links"/>
 # Important Links
+
 **Website** : https://badhan-buet.web.app </br>
 **App Link** : https://play.google.com/store/apps/details?id=com.mmmbadhan </br>
 **Developers** : https://badhan-buet.web.app/#/credits </br>
@@ -30,6 +31,7 @@ Other Links:
 <hr>
 <a name="contributors"/>
 # Contributors
+
 Active Developers: Mir Mahathir Mohammad, Sumaiya Azad, Hasan Masum, Sanju Basak
 
 Contributors from Badhan: Mahmudul Rasan Rahat, Tanzid Shuvo
@@ -38,4 +40,5 @@ Legacy Developers: Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
 <hr>
 <a name="history"/>
 # History
+
 history of Badhan, BUET Zone
