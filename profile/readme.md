@@ -8,7 +8,9 @@
 
 [Contributors](#contributors)    
 
-[History of Badhan, BUET Zone](#history)
+[History](#history)
+
+[Repositories](#repositories)
 <hr>
 
 <a name="introduction"/>
@@ -34,16 +36,6 @@ Badhan, BUET Zone.
 **Developers** : https://badhan-buet.web.app/#/credits
 
 **Organization github** : https://github.com/Badhan-BUET-Zone
-
-List of Repositories:
-
-**Frontend Repository**: https://github.com/Badhan-BUET-Zone/badhan-web
-
-**Backend Repository**: https://github.com/Badhan-BUET-Zone/badhan-backend
-
-**Database Backup and Restore Repository** : https://github.com/Badhan-BUET-Zone/badhan-backup
-
-**Automated Backend Test Repository** : https://github.com/Badhan-BUET-Zone/badhan-test
 
 Other Links: 
 
@@ -73,3 +65,15 @@ Legacy Developers: Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
 [Go back to table of content](#tableofcontent)
 
 History of Badhan, BUET Zone
+
+<a name="repositories"/>
+
+# Repositories:
+
+**Frontend Repository**: https://github.com/Badhan-BUET-Zone/badhan-web
+
+**Backend Repository**: https://github.com/Badhan-BUET-Zone/badhan-backend
+
+**Database Backup and Restore Repository** : https://github.com/Badhan-BUET-Zone/badhan-backup
+
+**Automated Backend Test Repository** : https://github.com/Badhan-BUET-Zone/badhan-test
