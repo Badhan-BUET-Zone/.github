@@ -1,18 +1,21 @@
 # Table of Contents  
+<a name="tableofcontent"/>
 [Introduction](#introduction)
 [Important Links](#links)  
 [Contributors](#contributors)    
 [History](#history)
 <hr>
-<a name="introduction"/>
 
 # Introduction
-Badhan, BUET Zone.
-
+<a name="introduction"/>
 [Go back to table of content](#tableofcontent)
+
+Badhan, BUET Zone.
 <hr>
-<a name="links"/>
+
 # Important Links
+<a name="links"/>
+[Go back to table of content](#tableofcontent)
 
 **Website** : https://badhan-buet.web.app </br>
 **App Link** : https://play.google.com/store/apps/details?id=com.mmmbadhan </br>
@@ -31,16 +34,18 @@ Other Links:
 **Figma Prototype** : https://www.figma.com/file/Z1zoTdP4oGoRwQcCz3s2rm/badhan </br>
 **Backend Documentation** : https://badhan-doc.herokuapp.com/ </br>
 <hr>
-<a name="contributors"/>
-# Contributors
 
+# Contributors
+<a name="contributors"/>
+[Go back to table of content](#tableofcontent)
 Active Developers: Mir Mahathir Mohammad, Sumaiya Azad, Hasan Masum, Sanju Basak
 
 Contributors from Badhan: Mahmudul Rasan Rahat, Tanzid Shuvo
 
 Legacy Developers: Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
 <hr>
-<a name="history"/>
-# History
 
-history of Badhan, BUET Zone
+# History
+<a name="history"/>
+[Go back to table of content](#tableofcontent)
+History of Badhan, BUET Zone
