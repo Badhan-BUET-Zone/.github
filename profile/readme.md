@@ -1,5 +1,6 @@
-# Table of Contents
 <a name="tableofcontent"/>
+
+# Table of Contents
 
 [Introduction](#introduction)
 
@@ -7,25 +8,31 @@
 
 [Contributors](#contributors)    
 
-[History](#history)
+[History of Badhan, BUET Zone](#history)
 <hr>
 
-# Introduction
 <a name="introduction"/>
+
+# Introduction
 
 [Go back to table of content](#tableofcontent)
 
 Badhan, BUET Zone.
 <hr>
 
-# Important Links
 <a name="links"/>
+
+# Important Links
+
 
 [Go back to table of content](#tableofcontent)
 
 **Website** : https://badhan-buet.web.app
+
 **App Link** : https://play.google.com/store/apps/details?id=com.mmmbadhan
+
 **Developers** : https://badhan-buet.web.app/#/credits
+
 **Organization github** : https://github.com/Badhan-BUET-Zone
 
 List of Repositories:
@@ -46,8 +53,9 @@ Other Links:
 
 <hr>
 
-# Contributors
 <a name="contributors"/>
+
+# Contributors
 
 [Go back to table of content](#tableofcontent)
 
@@ -58,8 +66,9 @@ Contributors from Badhan: Mahmudul Rasan Rahat, Tanzid Shuvo
 Legacy Developers: Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
 <hr>
 
-# History
 <a name="history"/>
+
+# History of Badhan, BUET Zone
 
 [Go back to table of content](#tableofcontent)
 
