@@ -1,15 +1,22 @@
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
-# BADHAN, BUET Zone
+<a name="tableofcontent"/>
+# Table of Contents  
+[Introduction](#introduction)
+[Important Links](#links)  
+[Contributors](#contributors)    
+[History](#history)
+<hr>
+<a name="introduction"/>
+Badhan, BUET Zone.
+[Go back to table of content](#tableofcontent)
+<hr>
+<a name="links"/>
+# Important Links
 **Website** : https://badhan-buet.web.app </br>
 **App Link** : https://play.google.com/store/apps/details?id=com.mmmbadhan </br>
 **Developers** : https://badhan-buet.web.app/#/credits </br>
 **Organization github** : https://github.com/Badhan-BUET-Zone </br>
-<hr>
+
+List of Repositories:
 
 **Frontend Repository**: https://github.com/Badhan-BUET-Zone/badhan-web </br>
 **Backend Repository**: https://github.com/Badhan-BUET-Zone/badhan-backend </br>
@@ -20,3 +27,15 @@ Other Links:
 
 **Figma Prototype** : https://www.figma.com/file/Z1zoTdP4oGoRwQcCz3s2rm/badhan </br>
 **Backend Documentation** : https://badhan-doc.herokuapp.com/ </br>
+<hr>
+<a name="contributors"/>
+# Contributors
+Active Developers: Mir Mahathir Mohammad, Sumaiya Azad, Hasan Masum, Sanju Basak
+
+Contributors from Badhan: Mahmudul Rasan Rahat, Tanzid Shuvo
+
+Legacy Developers: Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
+<hr>
+<a name="history"/>
+# History
+history of Badhan, BUET Zone
