@@ -2,8 +2,11 @@
 <a name="tableofcontent"/>
 
 [Introduction](#introduction)
+
 [Important Links](#links)  
+
 [Contributors](#contributors)    
+
 [History](#history)
 <hr>
 
