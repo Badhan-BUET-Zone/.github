@@ -1,4 +1,3 @@
-<a name="tableofcontent"/>
 # Table of Contents  
 [Introduction](#introduction)
 [Important Links](#links)  
