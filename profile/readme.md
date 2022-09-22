@@ -1,5 +1,6 @@
-# Table of Contents  
+# Table of Contents
 <a name="tableofcontent"/>
+
 [Introduction](#introduction)
 [Important Links](#links)  
 [Contributors](#contributors)    
