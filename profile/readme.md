@@ -23,13 +23,12 @@
 
 [Go back to table of content](#tableofcontent)
 
-Badhan, BUET Zone.
+Badhan, BUET Zone Github organization is our collection of repositories for maintaining the codebase of the Badhan, BUET Zone android app and website. The members of Badhan of BUET Zone use this app regularly to search for blood donations and to keep track of the records of donors and donations. This initiative took place on January 2020 when we gathered around our top developers from BUET and formed to create this platform. This document contains links, contributors, history and repositories of Badhan, BUET Zone app.
 <hr>
 
 <a name="links"/>
 
 # Important Links
-
 
 [Go back to table of content](#tableofcontent)
 
@@ -74,10 +73,4 @@ History of Badhan, BUET Zone
 
 # Repositories:
 
-**Frontend Repository**: https://github.com/Badhan-BUET-Zone/badhan-web
-
-**Backend Repository**: https://github.com/Badhan-BUET-Zone/badhan-backend
-
-**Database Backup and Restore Repository** : https://github.com/Badhan-BUET-Zone/badhan-backup
-
-**Automated Backend Test Repository** : https://github.com/Badhan-BUET-Zone/badhan-test
+Click on the repositories below for more technical information on each of our repositories.
