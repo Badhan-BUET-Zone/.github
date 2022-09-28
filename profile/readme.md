@@ -76,12 +76,21 @@ History of Badhan, BUET Zone
 Click on the repositories below for more technical information on each of our repositories.
 
 [Main Frontend](https://github.com/Badhan-BUET-Zone/badhan-web)
+
 [Main Backend](https://github.com/Badhan-BUET-Zone/badhan-backend)
+
 [Data Input Frontend](https://github.com/Badhan-BUET-Zone/badhan-datainput)
+
 [Data Input Backend](https://github.com/Badhan-BUET-Zone/badhan-datainput-api)
+
 [Admin Console Frontend](https://github.com/Badhan-BUET-Zone/badhan-admin-frontend)
+
 [Admin Console Backend](https://github.com/Badhan-BUET-Zone/badhan-admin-api)
+
 [Main Frontend Testing](https://github.com/Badhan-BUET-Zone/badhan-frontend-test)
+
 [Main Backend Testing](https://github.com/Badhan-BUET-Zone/badhan-test)
+
 [Backup Backend](https://github.com/Badhan-BUET-Zone/badhan-backup)
+
 [Documentation Backend](https://github.com/Badhan-BUET-Zone/badhan-doc)
