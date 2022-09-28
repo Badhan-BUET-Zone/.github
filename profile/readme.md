@@ -67,7 +67,7 @@ Legacy Developers: Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
 
 [Go back to table of content](#tableofcontent)
 
-History of Badhan, BUET Zone
+Go to [history of Badhan, BUET Zone](https://github.com/Badhan-BUET-Zone/badhan-web#description)
 
 <a name="repositories"/>
 
