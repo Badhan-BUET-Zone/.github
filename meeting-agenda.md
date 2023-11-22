@@ -10,6 +10,7 @@
 * Progress on running backend testing - started on 16 Nov
 * Update contributor list in firebase and in [here](https://github.com/Badhan-BUET-Zone#contributors) - started on 23 Nov
 * Run code of [frontend testing](https://github.com/Badhan-BUET-Zone/badhan-frontend-test), [backend testing](https://github.com/Badhan-BUET-Zone/badhan-test) - started on 23 Nov
+* [Issue](https://github.com/Badhan-BUET-Zone/badhan-test/issues/1): Move all success cases to success.test.js and guest cases to guest.test.js in [backend testing](https://github.com/Badhan-BUET-Zone/badhan-test) - started on 23 Nov
 
 ### Tanzid Hasan Shuvo:
 * Create issue on new feature for Donors without accounts - started on 23 Nov
@@ -25,4 +26,4 @@
 
 ## Announcement
 * We need [two more developers](https://github.com/Badhan-BUET-Zone/.github/blob/main/new-member.md) for code cleanup
-* While development, make sure to create a branch in the format `(yourname)/#(issuenumber)/(featurename)`. For example, `sanju/#34/implement-typescript` .
+* While development, make sure to create a branch in the format `yourname/#issuenumber/featurename`. For example, `sanju/#34/implement-typescript` .
