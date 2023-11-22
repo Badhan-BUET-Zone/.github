@@ -22,7 +22,7 @@
 * Attendance 
 
 ### Mir Mahathir Mohammad
-* Attendance
+* Check progress for everyone
 
 ## Announcement
 * We need [two more developers](https://github.com/Badhan-BUET-Zone/.github/blob/main/new-member.md) for code cleanup
