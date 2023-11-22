@@ -25,3 +25,4 @@
 
 ## Announcement
 * We need [two more developers](https://github.com/Badhan-BUET-Zone/.github/blob/main/new-member.md) for code cleanup
+* While development, make sure to create a branch in the format (yourname)/#(issuenumber)/(featurename). For example, sanju/#34/implement-typescript .
