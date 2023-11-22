@@ -32,12 +32,12 @@ Our Codebase: [Github Organization](https://github.com/Badhan-BUET-Zone)
 * Responsibilities:
   * You will work to implement features on the [Datainput API codebase](https://github.com/Badhan-BUET-Zone/badhan-datainput-api)
 
-~~~## 6) Q/A Member
+<s>## 6) Q/A Member
 * Skill Requirement: Knowledge on building apps or website, Github
 * Responsibilities:
   * You will have to collect user requirements and feedbacks from the members of Badhan
   * You will have to write and document issues in Github.
-  * You will need to verify the implementations done after resolving any issues.~~~
+  * You will need to verify the implementations done after resolving any issues.</s>
 
 ### General Requirements
 * You must show dedication in maintaining the integrity of our platform
