@@ -24,4 +24,4 @@
 * Attendance
 
 ## Announcement
-* We need two more developers for code cleanup
+* We need [two more developers](https://github.com/Badhan-BUET-Zone/.github/blob/main/new-member.md) for code cleanup
