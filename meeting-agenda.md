@@ -7,7 +7,6 @@
 * Progress on [frontend issue](https://github.com/Badhan-BUET-Zone/badhan-web/issues/100) - started on 16 Nov
 
 ### Sanju Basak:
-* Progress on running backend testing - started on 16 Nov
 * Update contributor list in firebase and in [here](https://github.com/Badhan-BUET-Zone#contributors) - started on 23 Nov
 * Run code of [frontend testing](https://github.com/Badhan-BUET-Zone/badhan-frontend-test), [backend testing](https://github.com/Badhan-BUET-Zone/badhan-test) - started on 23 Nov
 * [Issue](https://github.com/Badhan-BUET-Zone/badhan-test/issues/1): Move all success cases to success.test.js and guest cases to guest.test.js in [backend testing](https://github.com/Badhan-BUET-Zone/badhan-test) - started on 23 Nov
