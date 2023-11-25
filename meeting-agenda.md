@@ -1,4 +1,4 @@
-# Weekly Meeting Agenda (23 Nov 2023)
+# Weekly Meeting Agenda (30 Nov 2023)
 
 ## Tasks
 ### Hasan Masum
@@ -33,3 +33,4 @@
   * While creating a new branch or a pull request,
     * Use `test-branch` as base branch for [frontend repo](https://github.com/Badhan-BUET-Zone/badhan-web) and [backend repo](https://github.com/Badhan-BUET-Zone/badhan-backend).
     * For other repositories, use the `master` branch as the base branch while making a new branch.
+  * For commit messages, follow this format: `yourname/#issuenumber/brief commit description`
