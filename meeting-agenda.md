@@ -34,5 +34,5 @@
   * While creating a new branch or a pull request,
     * Use `test-branch` as base branch for [frontend repo](https://github.com/Badhan-BUET-Zone/badhan-web) and [backend repo](https://github.com/Badhan-BUET-Zone/badhan-backend).
     * For other repositories, use the `master` branch as the base branch while making a new branch.
-## Branch Name Convention
+## Commit Message Convention
   * For commit messages, follow this format: `yourname/#issuenumber/brief commit description`
