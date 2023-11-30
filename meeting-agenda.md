@@ -5,6 +5,7 @@
 * Progress on [backend issue](https://github.com/Badhan-BUET-Zone/badhan-backend/issues/11) - started on 16 Nov
 * Progress on [backup issue](https://github.com/Badhan-BUET-Zone/badhan-backup/issues/101) - started on 16 Nov
 * Progress on [frontend issue](https://github.com/Badhan-BUET-Zone/badhan-web/issues/100) - started on 16 Nov
+* Check whether you can push to branch - started on 30 Nov
 
 ### Sanju Basak:
 * Update contributor list in firebase and in [here](https://github.com/Badhan-BUET-Zone#contributors) - started on 23 Nov
@@ -21,7 +22,7 @@
 (sick)
 
 ### Mir Mahathir Mohammad
-* Check progress for everyone
+* Check pull requests
 
 ## Announcement
 * We need [more developers](https://github.com/Badhan-BUET-Zone/.github/blob/main/new-member.md) for code cleanup.
