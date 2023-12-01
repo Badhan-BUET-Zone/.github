@@ -17,6 +17,11 @@
 * Create an issue on a new feature for Donors without accounts - started on 23 Nov
 * Create an issue on the new feature for certificate download - started on 23 Nov
 * Create vector image certificate - started on 23 Nov
+* Create an issue on filtering using department - started on 30 Nov
+* Create an issue on seeing newly created donor using a button - started on 30 Nov
+* Create an issue on displaying public contacts page in incognito - started on 30 Nov
+* Create an issue on monthly report based on the pdf given from Masum - started on 30 Nov
+* Create an issue to show activity on home page - started on 30 Nov
 
 ### Tanzid Hasan Shuvo:
 (sick)
