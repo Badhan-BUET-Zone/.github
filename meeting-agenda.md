@@ -2,10 +2,7 @@
 
 ## Tasks
 ### Hasan Masum
-* Progress on [backend issue](https://github.com/Badhan-BUET-Zone/badhan-backend/issues/11) - started on 16 Nov
 * Progress on [backup issue](https://github.com/Badhan-BUET-Zone/badhan-backup/issues/101) - started on 16 Nov
-* Progress on [frontend issue](https://github.com/Badhan-BUET-Zone/badhan-web/issues/100) - started on 16 Nov
-* Check whether you can push to branch - started on 30 Nov
 
 ### Sanju Basak:
 * Update contributor list in firebase and in [here](https://github.com/Badhan-BUET-Zone#contributors) - started on 23 Nov
@@ -16,18 +13,15 @@
 ### Mahmud Akon
 - [ ] Create an issue on a new feature for Donors without accounts - started on 23 Nov
 - [ ] Create an issue on the new feature for certificate download - started on 23 Nov
+
+### Tanzid Hasan Shuvo:
 - [ ] Create vector image certificate - started on 23 Nov
-- [ ] Create an issue on filtering using department - started on 30 Nov
 - [ ] Create an issue on seeing newly created donor using a button - started on 30 Nov
 - [ ] Create an issue on displaying public contacts page in incognito - started on 30 Nov
 - [ ] Create an issue on monthly report based on the pdf given from Masum - started on 30 Nov
-- [ ] Create an issue to show activity on home page - started on 30 Nov
-
-### Tanzid Hasan Shuvo:
-(sick)
 
 ### Mir Mahathir Mohammad
-* Check pull requests
+- None
 
 ## Announcement
 * We need [more developers](https://github.com/Badhan-BUET-Zone/.github/blob/main/new-member.md) for code cleanup.
