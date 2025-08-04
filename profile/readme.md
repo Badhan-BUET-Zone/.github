@@ -44,8 +44,6 @@ Other Links:
 
 **Figma Prototype** : https://www.figma.com/file/Z1zoTdP4oGoRwQcCz3s2rm/badhan
 
-**Backend Documentation** : https://badhan-doc.herokuapp.com/
-
 <hr>
 
 <a name="contributors"/>
@@ -54,11 +52,11 @@ Other Links:
 
 [Go back to table of content](#tableofcontent)
 
-Active Developers: Mir Mahathir Mohammad, Sumaiya Azad, Hasan Masum, Sanju Basak
+Active Developers: Mir Mahathir Mohammad, Md. Al Amin Ifti, Hasan Masum, 
 
 Contributors from Badhan: Mahmudul Rasan Rahat, Tanzid Shuvo
 
-Legacy Developers: Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
+Legacy Developers: Sumaiya Azad, Sanju Basak, Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
 <hr>
 
 <a name="history"/>
