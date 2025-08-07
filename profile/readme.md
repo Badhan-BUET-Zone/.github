@@ -32,6 +32,8 @@ Badhan, BUET Zone Github organization is our collection of repositories for main
 
 [Go back to table of content](#tableofcontent)
 
+**Main Repository** : https://github.com/Badhan-BUET-Zone/badhan
+
 **Website** : https://badhan-buet.web.app
 
 **App Link** : https://play.google.com/store/apps/details?id=com.mmmbadhan
@@ -39,8 +41,6 @@ Badhan, BUET Zone Github organization is our collection of repositories for main
 **Developers** : https://badhan-buet.web.app/#/credits
 
 **Organization github** : https://github.com/Badhan-BUET-Zone
-
-Other Links: 
 
 **Figma Prototype** : https://www.figma.com/file/Z1zoTdP4oGoRwQcCz3s2rm/badhan
 
