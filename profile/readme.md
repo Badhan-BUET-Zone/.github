@@ -54,7 +54,7 @@ Badhan, BUET Zone Github organization is our collection of repositories for main
 
 Active Developers: Mir Mahathir Mohammad, Md. Al Amin Ifti, Hasan Masum, 
 
-Contributors from Badhan: Mahmudul Rasan Rahat, Tanzid Shuvo
+Contributors from Badhan: Mahmudul Rasan Rahat, Tanzid Hasan Shuvo, Mahmud Akon, Md Muqtadir Fuad.
 
 Legacy Developers: Sumaiya Azad, Sanju Basak, Aniruddha GS, Priyeta Saha, Anisha Islam, Atiqur Rahman Shuvo
 <hr>
