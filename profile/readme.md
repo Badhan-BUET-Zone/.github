@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="150" height="150" src="https://avatars.githubusercontent.com/u/97539569?s=400&u=f1ac0cacd5472ad3c020c7bff11c13727c3861d6&v=4"/>
+  <img width="150" height="150" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/logo.png"/>
   <h1>Badhan, BUET Zone</h1>
 </div>
 <a name="tableofcontent"/>
@@ -208,18 +208,57 @@ Once the stack is back up, re-run the two `curl` commands above to reseed the da
 
 We provide the documentation of all endpoints of our `badhan-backend` API. Visit https://badhan-buet-test.uc.r.appspot.com/docs/ to see and use the API endpoints directly. Visit this [video](https://youtu.be/vHnDgW04c1w) for instructions on using the API.
 
-<img width="1799" height="928" alt="image" src="https://github.com/user-attachments/assets/33501a52-c932-4202-af77-82fd179a632e" />
+<img width="1799" height="928" alt="Backend API documentation" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/api-docs.png" />
 
 # Video Trailer of App
 Click to see video
 
-[![Video Title](https://img.youtube.com/vi/cB0ci0pjCY8/0.jpg)](https://www.youtube.com/watch?v=cB0ci0pjCY8)
+[![Video Title](https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/video-thumbnail.jpg)](https://www.youtube.com/watch?v=cB0ci0pjCY8)
 
 # Screenshots
 
-<img width="1491" height="875" alt="image" src="https://github.com/user-attachments/assets/255c0120-4c0f-41ee-8f03-8147aef023b3" />
-<img width="1579" height="875" alt="image" src="https://github.com/user-attachments/assets/e86235b5-4ad6-4984-9645-120c57c614b2" />
+<img width="1491" height="875" alt="Badhan web app screenshot" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/screenshot-1.png" />
+<img width="1579" height="875" alt="Badhan web app screenshot" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/screenshot-2.png" />
 
+**Login** — Sign in by phone and password, with the last six months of donation counts shown on the landing screen.
+
+<img width="280" alt="Login screen" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/login.png" />
+
+**Donor search** — Filter donors by name, blood group, batch, address, hall and availability.
+
+<img width="280" alt="Donor search filters" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/donor-search-filters.png" />
+
+**Search results** — Matching donors grouped by batch, colour-coded by whether they are eligible to donate yet.
+
+<img width="280" alt="Donor search results grouped by batch" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/donor-search-results.png" />
+
+**Donor quick actions** — Expand any result to see contact details and call the donor or log a donation without leaving the list.
+
+<img width="280" alt="Expanded donor card with quick actions" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/donor-quick-actions.png" />
+
+**Donor profile** — Full donor record with volunteer status, blood and platelet donation history, and per-donor settings.
+
+<img width="280" alt="Donor profile page" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/donor-profile.png" />
+
+**Create donor** — Register a new donor with contact, hall, blood group and donation-count details.
+
+<img width="280" alt="Create donor form" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/create-donor.png" />
+
+**Bulk CSV upload** — Import many donors at once from a CSV, with the accepted column formats documented on the page.
+
+<img width="900" alt="Bulk donor CSV upload screen" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/csv-donor-upload.png" />
+
+**CSV validation** — Every row is validated before upload, with the offending cells highlighted and the failed rows downloadable as a CSV to fix and retry.
+
+<img width="900" alt="CSV upload showing per-row validation errors" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/csv-upload-errors.png" />
+
+**Duplicate detection** — Donors already in the database are flagged instead of re-created, with a direct link to the existing record.
+
+<img width="900" alt="CSV upload showing already existing donors" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/csv-upload-duplicates.png" />
+
+**Backup and restore** — Super admins can snapshot the database and restore any backup to the local, test or production environment.
+
+<img width="900" alt="Backup and restore screen" src="https://raw.githubusercontent.com/Badhan-BUET-Zone/badhan/main/docs/images/backup-and-restore.png" />
 
 # Website
 https://badhan-buet.web.app/#/
